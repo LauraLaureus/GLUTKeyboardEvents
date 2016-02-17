@@ -23,7 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		279A28FC1C732AD700226843 /* GlutEvent */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GlutEvent; sourceTree = BUILT_PRODUCTS_DIR; };
+		275D7BD01C74EA6E004C5A3A /* Captura de pantalla 2016-02-17 a las 17.43.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Captura de pantalla 2016-02-17 a las 17.43.37.png"; sourceTree = "<group>"; };
+		279A28FC1C732AD700226843 /* GlutEvent */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = "compiled.mach-o.executable"; path = GlutEvent; sourceTree = BUILT_PRODUCTS_DIR; };
 		279A28FF1C732AD700226843 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,6 +42,7 @@
 		279A28F31C732AD700226843 = {
 			isa = PBXGroup;
 			children = (
+				275D7BD01C74EA6E004C5A3A /* Captura de pantalla 2016-02-17 a las 17.43.37.png */,
 				279A28FE1C732AD700226843 /* GlutEvent */,
 				279A28FD1C732AD700226843 /* Products */,
 			);
@@ -239,6 +241,7 @@
 				279A29051C732AD700226843 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
